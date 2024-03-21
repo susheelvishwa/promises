@@ -14,4 +14,14 @@ so in this case seTimeout is not good practice --> here produce Promises
 
 # lets try to understand how its work promises
 
-state => resolved, reject, panding
+promises has three state
+
+state => resolved, reject, panding 
+refer example num 1 than came back
+
+# lets application of promises
+
+refer example number 2
+
+
+
