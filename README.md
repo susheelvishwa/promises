@@ -1,5 +1,15 @@
 # promises
 
+if you want to understand how promise work, so refer example number 0
+
+resolve("Get the data on UI")
+so here promises state "fullfill" and promise_ result is "Get the data on UI"
+
+
+If nothing will happien so promis state is "pending" and promise_result is "undifine"
+
+reject("Server not Found 404")
+so here promises state is "rejected " and promise_result is "server not found 404"
 
 # try to understand why we need promises 
 toh promises k need isliye padi ek example se samjhte he
@@ -25,3 +35,13 @@ refer example number 2
 
 
 
+#  in promises we use two methods 
+
+1st one is ".then"
+so when promises is resolve
+
+and promises reject so ".catch"
+
+
+
+# promies is esay to uderstand the flow of the code but in  callback to understand is so diffecult
